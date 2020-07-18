@@ -16,6 +16,7 @@ const IndexPage = () => (
       <div className="home-top">
         <h1>A different approach to buying and selling real estate.</h1>
       </div>
+
       <div className="home-image-container">
         {/* <Image /> */}
         <img
